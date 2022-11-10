@@ -1,9 +1,9 @@
-class demo(){
+class demo{
 
 
-psvm(){
+public static void main(String args[]){
 
-sop("git Demo");
+System.out.println("git Demo");
 
 }
 
